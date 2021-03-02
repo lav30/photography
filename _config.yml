@@ -12,3 +12,5 @@ bio: "Engineer, Seeker, Artist"
 social_urls:
   github: "https://www.github.com/lav30"
   
+
+theme: jekyll-theme-midnight
